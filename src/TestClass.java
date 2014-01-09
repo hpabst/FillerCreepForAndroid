@@ -1,4 +1,7 @@
-//THIS IS A JAVA COMMENT
+
+/*
+ * A nice C style comment.
+ */
 
 public class TestClass
 {
